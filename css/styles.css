@@ -40,3 +40,7 @@ h3{
   font-size: 115%;
   border-radius: 20px;
 }
+
+.bye img{
+  float: right;
+}
