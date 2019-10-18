@@ -23,7 +23,9 @@ p{
   border-radius: 20px;
 }
 
-/* .khand{
-  font-size: 'Khand', cursive;
-  font-weight: lighter;
-} */
+h3{
+  font-size: 'Khand',cursive;
+  background-color: #deccca;
+  text-align: center;
+  border-radius: 20px;
+}
