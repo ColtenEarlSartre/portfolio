@@ -15,10 +15,11 @@ img{
   padding: 20px;
 }
 
-p,ul{
+p,ul,.twin{
   font-family: 'Khand',cursive;
   background: #deccca;
   text-align: center;
+  list-style-position: inside;
   font-size: 115%;
   border-radius: 20px;
 }
