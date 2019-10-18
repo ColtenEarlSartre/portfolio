@@ -19,6 +19,11 @@ p{
   font-family: 'Khand',cursive;
   background: #deccca;
   text-align: center;
-  font-size: 125%;
+  font-size: 115%;
   border-radius: 20px;
 }
+
+/* .khand{
+  font-size: 'Khand', cursive;
+  font-weight: lighter;
+} */
