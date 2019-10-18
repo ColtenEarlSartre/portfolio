@@ -14,3 +14,11 @@ body{
 img{
   padding: 20px;
 }
+
+p{
+  font-family: 'Khand',cursive;
+  background: #deccca;
+  text-align: center;
+  font-size: 125%;
+  border-radius: 20px;
+}
