@@ -1,9 +1,9 @@
 body{
-  background-color: 	#c7bbc9;
+  background-color: #e8edf4;
 }
 .headerstyle{
   font-family: 'Monoton', cursive;
-  background-color: 	#deccca;
+  background-color: #c6d1e3;
   border-radius: 30px;
   text-align: center;
   font-size: 150%
@@ -12,21 +12,31 @@ body{
   border-radius: 30px
 }
 img{
-  padding: 20px;
+  padding: 10px;
 }
 
 p,ul,.twin{
   font-family: 'Khand',cursive;
-  background: #deccca;
+  background:	#d7dfeb;
   text-align: center;
   list-style-position: inside;
   font-size: 115%;
   border-radius: 20px;
+  margin: 0 auto;
 }
 
 h3{
   font-size: 'Khand',cursive;
-  background-color: #deccca;
+  background-color:  	#d7dfeb;
   text-align: center;
+  border-radius: 20px;
+}
+
+.middle p{
+  font-family: 'Khand',cursive;
+  background: #white;
+  text-align: center;
+  list-style-position: inside;
+  font-size: 115%;
   border-radius: 20px;
 }
