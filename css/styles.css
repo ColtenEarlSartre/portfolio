@@ -15,7 +15,7 @@ img{
   padding: 20px;
 }
 
-p{
+p,ul{
   font-family: 'Khand',cursive;
   background: #deccca;
   text-align: center;
