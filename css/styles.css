@@ -1,5 +1,6 @@
 body{
   background-color: #e8edf4;
+  margin: auto;
 }
 .headerstyle{
   font-family: 'Monoton', cursive;
@@ -44,3 +45,7 @@ h3{
 .bye img{
   float: right;
 }
+
+/* .stretch img{
+  width: 100%;
+} */
